@@ -7,7 +7,7 @@ I love the range of creativity that comes with technology. I love pushing the bo
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on wordpress 
-- 🌱 I’m currently learning Advanced CSS 
+- 🌱 I’m currently learning React 
 - 💬 Ask me about my chipotle bowl order 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I produce a little bit of music 
